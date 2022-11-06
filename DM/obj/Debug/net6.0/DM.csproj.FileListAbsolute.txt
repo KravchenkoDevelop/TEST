@@ -1,0 +1,12 @@
+D:\Repos\DirectumTestTask(.net)\DM\bin\Debug\net6.0\DM.deps.json
+D:\Repos\DirectumTestTask(.net)\DM\bin\Debug\net6.0\DM.dll
+D:\Repos\DirectumTestTask(.net)\DM\bin\Debug\net6.0\DM.pdb
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.csproj.AssemblyReference.cache
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.AssemblyInfoInputs.cache
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.AssemblyInfo.cs
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.csproj.CoreCompileInputs.cache
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.dll
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\refint\DM.dll
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\DM.pdb
+D:\Repos\DirectumTestTask(.net)\DM\obj\Debug\net6.0\ref\DM.dll

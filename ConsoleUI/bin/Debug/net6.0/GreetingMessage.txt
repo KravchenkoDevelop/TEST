@@ -1,0 +1,17 @@
+hello! this .net task for directum.
+
+next manual will show you command list and syntax:
+help - show comand menu
+add - create new event
+update - update event with guid whitch you choose
+get all - will show all yours events
+my events - show events by choosen param:
+         - today - shows all active events for today,
+         - tomorow - shows all tommorrow events,
+         - nexthour - show soon event in next hour,
+         - recent - show all past events
+         (ex: my events -today)
+remove - remove event by id
+getevent - gets concrete event by id
+
+       

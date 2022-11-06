@@ -1,0 +1,17 @@
+D:\Repos\DirectumTestTask(.net)\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Repos\DirectumTestTask(.net)\DAL\bin\Debug\net6.0\DAL.dll
+D:\Repos\DirectumTestTask(.net)\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Repos\DirectumTestTask(.net)\DAL\bin\Debug\net6.0\DM.dll
+D:\Repos\DirectumTestTask(.net)\DAL\bin\Debug\net6.0\DM.pdb
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.dll
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Repos\DirectumTestTask(.net)\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Repos\DirectumTestTask(.net)\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
